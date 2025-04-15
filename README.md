@@ -1,6 +1,6 @@
 - 👋 Hi there! I’m @Stephanyrsantos 
-- 💻 Studying programming
-- 🌱 I’m currently learning Javascript
+- 💻 I'm QA
+- 🌱 I’m currently learning more about automation
 - ✨ Learning is continuous and there will always be a next level.
 
 <br>
@@ -24,7 +24,7 @@ Techs daily used:
 <br>
 <div> 
   <a href="https://www.instagram.com/stephanyrsantos/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
- <a href="https://www.linkedin.com/in/stephany-rodrigues-santos-013a01114/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"
+ <a href="https://www.linkedin.com/in/stephany-rodrigues-santos/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"
 </div>
 
   ![Snake animation](https://github.com/Stephanyrsantos/Stephanyrsantos/blob/output/github-contribution-grid-snake.svg)
